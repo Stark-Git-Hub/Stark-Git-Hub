@@ -39,7 +39,7 @@ textarea
   position: fixed;
   z-index: 1;
   top: 0;
-  overflow: hidden;
+  overflow-x: hidden;
   padding-top: 20px;
 }
 
